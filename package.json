@@ -1,0 +1,8 @@
+{ 	
+	"name": "com.debox.unitoolz.vfx", 	
+	"description": "Visual Effect helpers",
+	"version": "0.0.1",
+	"unity": "2019.3", 
+	"displayName": "DeBox Unitoolz VFX", 
+	"dependencies": {}
+}
