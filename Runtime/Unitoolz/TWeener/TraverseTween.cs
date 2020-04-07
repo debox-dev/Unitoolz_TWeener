@@ -3,9 +3,8 @@ using System;
 using System.Collections;
 
 
-namespace Smackware.TWeener
+namespace DeBox.Unitoolz.TWeener
 {
-
     public class TraverseTween : TWeener
     {        
         public ITraversable Traversable;

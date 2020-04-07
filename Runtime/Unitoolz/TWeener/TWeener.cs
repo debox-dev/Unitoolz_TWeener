@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using RSG;
 
-namespace Smackware.TWeener
+namespace DeBox.Unitoolz.TWeener
 {
     [System.Serializable]
     public enum LoopType

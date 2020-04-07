@@ -5,7 +5,7 @@ using UnityEngine;
 
 using RSG;
 
-namespace Unitoolz.TWeener
+namespace DeBox.Unitoolz.TWeener
 {
     public static class TweenUtils 
     {

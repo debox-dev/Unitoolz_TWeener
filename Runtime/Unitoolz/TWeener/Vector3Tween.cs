@@ -1,10 +1,9 @@
 ﻿using UnityEngine;
 using System;
-using System.Collections;
 
 
-namespace Smackware.TWeener
-{ 
+namespace DeBox.Unitoolz.TWeener
+{
     [System.Serializable]
     public enum Target
     {

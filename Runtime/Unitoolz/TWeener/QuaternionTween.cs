@@ -3,11 +3,8 @@ using System;
 using System.Collections;
 
 
-namespace Smackware.TWeener
+namespace DeBox.Unitoolz.TWeener
 {
-
-
-
     public class QuaternionTween : TWeener
     {
         public Quaternion From;

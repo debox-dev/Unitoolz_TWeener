@@ -3,9 +3,8 @@ using System.Collections.Generic;
 
 using RSG;
 
-namespace Unitoolz.TWeener
+namespace DeBox.Unitoolz.TWeener
 {
-
     public interface ITweenPromise : IPromise
     {
         ITweenPromise Update(Action<float> onUpdate);

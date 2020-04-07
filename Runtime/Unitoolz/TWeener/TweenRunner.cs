@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Unitoolz.TWeener
+namespace DeBox.Unitoolz.TWeener
 {
     public class TweenRunner : MonoBehaviour
     {
